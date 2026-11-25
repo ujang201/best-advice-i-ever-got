@@ -1,0 +1,10 @@
+Write one sentence (max 200 characters) about the best advice I ever received, for the make.fun bounty "The Best Advice I Ever Got".
+
+The sentence must:
+- be exactly one sentence, 1-200 characters, plain UTF-8 text
+- describe advice someone actually gave me, in a real moment
+- sound like a real person recalling a real moment, not a slogan or fortune cookie
+- be specific, earned, and true beyond the moment it came from
+- read in one breath and land with something to keep
+
+Build a deterministic Node program (main.ts, no randomness, clock, network, or input) that writes that single sentence to /output/entry.txt (honouring OUTPUT_DIR when set).
